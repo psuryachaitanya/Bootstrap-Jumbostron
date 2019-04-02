@@ -1,2 +1,2 @@
-# Bootstrap-Jumbostron
+# Bootstrap-Jumbotron
 simple jumbrotron exercise 
